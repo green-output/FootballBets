@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "TomG5",
+  "author": "Thomas Green",
   "license": "MIT",
   "dependencies": {
     "ganache": "^7.0.0-internal.1328",
