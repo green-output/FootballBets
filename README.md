@@ -1,6 +1,6 @@
 <pre>==============================================================================================
 @title: Football Bets
-@author: thomasg5
+@author: Thomas Green
 @notice: Contract designed to allow users to bet on football matches scores
 @dev: Personal portfolio-oriented project, not intended for deployment and use by businesses
 ==============================================================================================
